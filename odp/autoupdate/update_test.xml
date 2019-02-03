@@ -1,0 +1,26 @@
+<root>
+<releaseDate>09/10/2018</releaseDate>
+<version>0.1.8</version>
+<sourceURL>http://github.com/andylunn/vultrix-downloads/raw/master/odpautoupdate/0.1.8</sourceURL>
+<notes>
+Changes in v0.1.8.123 (9 Oct 2018)
+
+​- Fixed issue with Inspectors window causing a crash if closed
+- Changed developer menu to Online Help
+- Changed auto update check to every 3 days from 7
+
+Changes in v0.1.7.15 (8 Oct 2018)
+
+- Added Help > Developers menu as a direct link to the developer home page on the ODP website
+​- Fixed issue with Beta license code not being accepted
+- Fixed issue with Modify Structure and not being able to remove multiple columns in one step
+- Fixed plugins folder not pointing to the correct location
+
+Changes in v0.1.7.10 (7 Oct 2018)
+
+​- Initial beta release
+</notes>
+<actions>
+	<action type='copyfile' source='odp.txt' dest='odp.exe' size='547328'/>
+</actions>
+</root>
